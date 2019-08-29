@@ -1,0 +1,15 @@
+{
+  "name": "ironpairs",
+  "version": "1.0.0",
+  "description": "Script for creating pairs or threesomes from a json",
+  "main": "./lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "ironpairs": "./bin/ironpairs.js"
+  },
+  "preferGlobal": true,
+  "license": "Apache-2.0",
+  "author": ""
+}
