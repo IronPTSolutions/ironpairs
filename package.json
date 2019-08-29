@@ -1,6 +1,6 @@
 {
   "name": "ironpairs",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Script for creating pairs or threesomes from a json",
   "main": "./lib/index.js",
   "scripts": {
