@@ -1,2 +1,2 @@
-const makePairs = require('../lib/makePairs.js');
+const makePairs = require('../lib/index.js');
 makePairs.start();
